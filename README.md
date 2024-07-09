@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @khajatakreemulla
-- 👀 I’m interested in Front-End UI Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Front End Projects
+- 👀 I’m interested in Full Stack Web Development Jobs
 - 📫 Contact me @ 78692ishaq@gmail.com
 
 <!---
